@@ -70,4 +70,4 @@ The classification model performed well with an overall accuracy of 92%. It was 
 - Model was overfitting during the intial training to avoid this I have implememted data augumentation, retrained ResNet50 layers.
 - Ensuring the model not only achieves high accuracy but also generalizes well to new, unseen images is challenging. This involves careful tuning of the model's architecture and training parameters, and extensive testing with diverse data.
 
-[Connect With me](https://www.linkedin.com/in/krishnavamsinadh/)
+
